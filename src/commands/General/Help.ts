@@ -173,7 +173,27 @@ export default class Command extends BaseCommand {
 -🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ6 [${this.client.config.prefix}ｈ6]
+🧧:ᴀᴄᴛɪᴠᴀᴛᴇ
 
+🧧:ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇ
+
+🧧:ᴅᴇᴍᴏᴛᴇ
+
+🧧:ɢʀᴏᴜᴘᴄʜᴀɴɢᴇ
+
+🧧:ᴘʀᴏᴍᴏᴛᴇ
+
+🧧:ᴘᴜʀɢᴇ
+
+🧧:ʀᴇᴍᴏᴠᴇ
+
+🧧:ᴄʟᴏꜱᴇ
+
+🧧:ᴏᴘᴇɴ
+
+🧧:ʀᴇᴠᴏᴋᴇ
+
+🧧:ᴘᴘᴄᴏᴜᴘʟᴇ
 -🄴🄳🅄🄲🄰🅃🄸🅅🄴 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ7 [${this.client.config.prefix}ｈ7]
