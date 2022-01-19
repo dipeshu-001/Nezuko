@@ -79,7 +79,7 @@ export default class Command extends BaseCommand {
             return {
                 categories,
                 pack: pack[1] || '🎗 𝚁𝚒𝚗 𝙱𝚘𝚝𝚝𝚘 ',
-                author: pack[2] || '𝙹𝙹-𝙾𝚛𝚎𝚔𝚒 🎗',
+                author: pack[2] || 'TOSHIRO-CHEY 🎗',
                 quality,
                 type: StickerTypes[
                     parsedArgs.flags.includes('--crop') || parsedArgs.flags.includes('--c')
