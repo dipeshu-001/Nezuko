@@ -35,15 +35,97 @@ export default class Command extends BaseCommand {
 -🄶🄴🄽🄴🅁🄰🄻 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ1 [${this.client.config.prefix}ｈ１]
+🧧:ᴀᴅᴍɪɴs
 
+🧧:ᴇᴠᴇʀʏᴏɴᴇ
+
+🧧:ᴍᴏᴅs
+
+🧧:ᴘʀᴏғɪʟᴇ
+
+🧧:ʀᴀɴᴋ
+
+🧧:xᴘ
+
+🧧:ɪɴᴠɪᴛᴇʟɪɴᴋ
+
+🧧:ᴅᴇʟᴇᴛᴇ
+
+🧧:ʀᴇᴛʀɪᴇᴠᴇ
+
+🧧:ʜɪ
+
+🧧:ʀɪɴ
 -🅆🄴🄴🄱🅂 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
+🧧:ᴀɴɪᴍᴇ
 
+🧧:ᴀɴɪᴍᴇQᴜᴏᴛᴇ
+
+🧧:ᴀɴɪᴍᴇᴄʜᴀʀ
+
+🧧:ɢᴇɴꜱʜɪɴᴄʜᴀʀᴀᴄᴛᴇ
+
+🧧:ʜᴜꜱʙᴀɴᴅᴏ
+
+🧧:ʟᴏʟɪ
+
+🧧:ᴍᴀɴɢᴀ
+
+🧧:ᴘᴏᴋᴇᴍᴏɴ
+
+🧧:ʀᴘᴀᴘᴇʀ
+
+🧧:ᴠᴛᴜʙᴇʀ
+
+🧧:ᴡᴀɪꜰᴜ
+
+🧧:ᴀᴍᴇᴍᴇ
+
+🧧ᴄʜᴀʀᴀᴄᴛᴇʀ
+
+🧧:ᴄʀᴏꜱꜱᴘʟᴀʏ
+
+🧧:ʜᴀɪɢᴜꜱʜᴀ
+
+🧧:ʀᴇᴄᴏᴍᴍᴇɴᴅ
+
+🧧:ꜱᴀᴜᴄᴇ
+
+🧧:ᴡᴀʟʟᴘᴀᴘᴇʀ
 -🄵🅄🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
+🧧:ᴄʜᴇꜱꜱ
 
+🧧:Qᴜᴏᴛᴇ
+
+🧧:ʀᴇᴀᴄᴛ
+
+🧧:ᴛʀɪɢɢᴇʀ
+
+🧧:ᴛʀᴜᴛʜ
+
+🧧:ᴄʜᴀᴛ
+
+🧧:ᴅᴀʀᴇ
+
+🧧:ꜰᴀᴄᴛ
+
+🧧ꜱᴀꜰᴇᴊᴏᴋᴇ
+
+🧧:ꜱʜɪᴘ
+
+🧧:ᴛʀɪᴠɪᴀ
+
+🧧:JAIL
+
+🧧:WANTED
+
+🧧:RIP
+
+🧧:TRASH
 -🄼🄴🄳🄸🄰 🧣
 
  🎐 ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
