@@ -65,10 +65,10 @@ export default class Command extends BaseCommand {
 🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
 
 ────────────────
- ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
+ ──❅┈[ RIN BOT ]┈❅───
 ┌────────────┈❅
-│   🧨 ᖇᎥᑎ
-│   ©️ Synthesized Infinity Botto
+│   🧨 RIN
+│   ©️ TOSHIRO BOTTO
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
