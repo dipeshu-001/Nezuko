@@ -2,7 +2,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wWPjVdB/9a7bdb904c553a6b7c1e7fca2f38683a.gif" alt="9a7bdb904c553a6b7c1e7fca2f38683a" border="0" /></a>
 
 
-# **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **NEZUKO : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
