@@ -36,9 +36,9 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `
-╭─「(づ￣ 3￣)づ」
+╭─(❤️ω❤️) Konichiwa
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: ᖇᎥᑎ
+│⋊ ɴᴀᴍᴇ: Nezuko
 │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
 │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
 ╰────────────┈平和                            \n\n`
@@ -52,11 +52,11 @@ export default class Command extends BaseCommand {
             return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption: `${text}
- ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
-┌────────────┈❅
-│   🧨 ᖇᎥᑎ
-│   ©️ TOSHIRO BOTTO
-└────────────┈⁂
+[ NEZUKO Bot ]
+────────────
+  NEZUKO BOTTO
+────────────
+By ©Toshiro-Hitsugaya
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
             )
@@ -71,7 +71,7 @@ export default class Command extends BaseCommand {
             }\n⛩ *Category:* ${this.client.util.capitalize(command.config?.category || '')}${
                 command.config.aliases
                     ? `\n♦️ *Aliases:* ${command.config.aliases.map(this.client.util.capitalize).join(', ')}`
-                    : ''
+                   : ''
             }\n🎐 *Group Only:* ${this.client.util.capitalize(
                 JSON.stringify(!command.config.dm ?? true)
             )}\n💎 *Usage:* ${command.config?.usage || ''}\n\n📒 *Description:* ${command.config?.description || ''}`
