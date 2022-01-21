@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vQTnQtp/animesher-com-unlimited-blade-works-epic-magus-1082276.gif" alt="animesher-com-unlimited-blade-works-epic-magus-1082276" border="0" /></a>" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vQTnQtp/animesher-com-unlimited-blade-works-epic-magus-1082276.gif" alt="animesher-com-unlimited-blade-works-epic-magus-1082276" border="0" /></a>"
 
 # **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
