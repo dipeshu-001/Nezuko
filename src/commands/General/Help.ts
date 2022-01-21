@@ -254,7 +254,7 @@ export default class Command extends BaseCommand {
 ────────────────
 By ©ᴛᴏsʜɪʀᴏ-ʜɪᴛsᴜɢᴀʏᴀ
   [𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]
-🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
+👾 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
         )
     }
 }
