@@ -252,7 +252,7 @@ export default class Command extends BaseCommand {
 ────────────────
    Nazuko Botto
 ────────────────
-ᵗᵒˢʰⁱʳᵒ ʰⁱᵗˢᵘᵍᵃʸᵃ
+ᵇʸ ᵗᵒˢʰⁱʳᵒ ʰⁱᵗˢᵘᵍᵃʸᵃ
         )
     }
 }
