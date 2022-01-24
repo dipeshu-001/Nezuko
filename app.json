@@ -1,5 +1,5 @@
 {
-    "name": "Nezuko-Botto",
+    "name": "RIN",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -11,7 +11,7 @@
         "whatsapp-sticker-bot",
         "whatsapp-botto"
     ],
-    "website": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto#readme",
+    "website": "https://github.com/Oreki-san/RIN#readme",
     "repository": "https://github.com/Oreki-san/RIN.git,
     "logo": "[url=https://ibb.co/Tm9Bk39][img]https://i.ibb.co/Tm9Bk39/images.jpg[/img][/url]",
     "success_url": "/",
