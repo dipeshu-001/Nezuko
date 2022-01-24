@@ -13,7 +13,7 @@
     ],
     "website": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto#readme",
     "repository": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto.git",
-    "logo": "[url=https://ibb.co/Tm9Bk39][img]https://i.ibb.co/Tm9Bk39/images.jpg[/img][/url]",
+    "logo": "<a href="https://ibb.co/Tm9Bk39"><img src="https://i.ibb.co/WgmW6Jm/images.jpg" alt="images" border="0" /></a>",
     "success_url": "/",
     "env": {
         "PREFIX": {
