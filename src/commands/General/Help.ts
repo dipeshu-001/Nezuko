@@ -29,10 +29,10 @@ export default class Command extends BaseCommand {
 │ ᴜꜱᴇʀ: *${M.sender.username}*
 │ ɴᴀᴍᴇ: *𝗡𝗲𝘇𝘂𝗸𝗼 (◍•ᴗ•◍)*
 │ ᴘʀᴇꜰɪx: *${this.client.config.prefix}*
-│ ʙᴏᴛ ʟɪɴᴋ: *https://github.com/Toshiro223/Nezuko*
 ╰────────────┈
 🧣 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
+〽️𝐓𝐲𝐩𝐞 ${this.client.config.prefix}𝐧𝐞𝐳𝐮𝐤𝐨 𝐅𝐨𝐫 𝐁𝐨𝐭 𝐆𝐢𝐭𝐇𝐮𝐛 𝐋𝐢𝐧𝐤!
 ━━━❰ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❱━━━
 
 ㋛︎ ${this.client.config.prefix}ᴀᴅᴍɪɴꜱ
