@@ -22,7 +22,6 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `🎗 Nezuko\n\n🎗️ *Description: Follow my Instagram* \n\n ⭐*URL-https://instagram.com/its_chey_7/* \n` }
-        )
+            caption: `〽️ *Nezuko* 〽️\n\n🧣 *Description: A WhatsApp Bot With Rich Anime Features.*\n\n🌐 *URL: https://github.com/Toshiro223/Nezuko* \n\n 📒 *Guide: https://github.com/Toshiro223/Nezuko-Guides* \n`,
     }
 }
