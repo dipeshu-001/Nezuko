@@ -24,16 +24,18 @@ export default class Command extends BaseCommand {
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `(❤️•ᴗ•❤️)Konnichiwa👋🏻
+            caption: `
 
-👋🏻
+╭────────────┈
+│ ᴜꜱᴇʀ: *${M.sender.username}*
+│ ɴᴀᴍᴇ: *𝗡𝗲𝘇𝘂𝗸𝗼 (◍•ᴗ•◍)*
+│ ᴘʀᴇꜰɪx: *${this.client.config.prefix}*
+│ ᴏᴡɴᴇʀ: *<${this.client.config.prefix}mod>*
+╰────────────┈
+🧣 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ɴᴇᴢᴜᴋᴏ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
-🧧 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ɴᴇᴢᴜᴋᴏ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
+━━━❰ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❱━━━
 
-🧣 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
-────────────────
--ɢᴇɴᴇʀᴀʟ🎗️
-────────────────
 ㋛︎ ${this.client.config.prefix}ᴀᴅᴍɪɴꜱ
 ㋛︎ ${this.client.config.prefix}ᴇᴠᴇʀʏᴏɴᴇ
 ㋛︎ ${this.client.config.prefix}ᴍᴏᴅꜱ
@@ -45,9 +47,9 @@ export default class Command extends BaseCommand {
 ㋛︎ ${this.client.config.prefix}ʀᴇᴛʀɪᴇᴠᴇ
 ㋛︎ ${this.client.config.prefix}ʜɪ
 ㋛︎ ${this.client.config.prefix}ɴᴇᴢᴜᴋᴏ
-────────────────
--ᴡᴇᴇʙs🎗️
-────────────────
+
+━━━❰ 𝗪𝗲𝗲𝗯𝘀 ❱━━━
+
 シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇ
 シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇQᴜᴏᴛᴇ
 シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇᴄʜᴀʀ
@@ -66,9 +68,9 @@ export default class Command extends BaseCommand {
 シ︎ ${this.client.config.prefix}ʀᴇᴄᴏᴍᴍᴇɴᴅ
 シ︎ ${this.client.config.prefix}ꜱᴀᴜᴄᴇ
 シ︎ ${this.client.config.prefix}ᴡᴀʟʟᴘᴀᴘᴇʀ
-────────────────
--ғᴜɴ🎗️
-────────────────
+
+━━━❰ 𝗙𝘂𝗻 ❱━━━
+
 ❀ ${this.client.config.prefix}ᴄʜᴇꜱꜱ
 ❀ ${this.client.config.prefix}Qᴜᴏᴛᴇ
 ❀ ${this.client.config.prefix}ʀᴇᴀᴄᴛ
@@ -84,9 +86,9 @@ export default class Command extends BaseCommand {
 ❀ ${this.client.config.prefix}ᴡᴀɴᴛᴇᴅ
 ❀ ${this.client.config.prefix}ʀɪᴘ
 ❀ ${this.client.config.prefix}ᴛʀᴀsʜ
-────────────────
--ᴍᴇᴅɪᴀ🎗️
-────────────────
+
+━━━❰ 𝗠𝗲𝗱𝗶𝗮 ❱━━━
+
 ✵ ${this.client.config.prefix}ɪɢ
 ✵ ${this.client.config.prefix}ᴘʟᴀʏ
 ✵ ${this.client.config.prefix}ꜱᴘᴏᴛɪꜰʏ
@@ -97,9 +99,9 @@ export default class Command extends BaseCommand {
 ✵ ${this.client.config.prefix}ɢᴏᴏɢʟᴇ
 ✵ ${this.client.config.prefix}ʟʏʀɪᴄꜱ
 ✵ ${this.client.config.prefix}ᴘɪɴᴛᴇʀᴇꜱᴛ
-────────────────
--ᴜᴛɪʟs🎗️
-────────────────
+
+━━━❰ 𝗨𝘁𝗶𝗹𝘀 ❱━━━
+
 𖣘 ${this.client.config.prefix}ʙʟᴜʀ
 𖣘 ${this.client.config.prefix}ᴋɪᴛᴛᴇɴ
 𖣘 ${this.client.config.prefix}ꜱᴛɪᴄᴋᴇʀ
@@ -110,9 +112,9 @@ export default class Command extends BaseCommand {
 𖣘 ${this.client.config.prefix}ᴛʀᴀɴꜱʟᴀᴛᴇ
 𖣘 ${this.client.config.prefix}ᴡɪᴋɪᴘᴇᴅɪᴀ
 𖣘 ${this.client.config.prefix}ᴄɪʀᴄʟᴇ
-────────────────
--ᴍᴏᴅʀᴀᴛɪᴏɴ🎗️
-────────────────
+
+━━━❰ 𝗠𝗼𝗱𝗿𝗮𝘁𝗶𝗼𝗻 ❱━━━
+
 ☯︎ ${this.client.config.prefix}ᴀᴄᴛɪᴠᴀᴛᴇ
 ☯︎ ${this.client.config.prefix}ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇ
 ☯︎ ${this.client.config.prefix}ᴅᴇᴍᴏᴛᴇ
@@ -124,9 +126,9 @@ export default class Command extends BaseCommand {
 ☯︎ ${this.client.config.prefix}ᴏᴘᴇɴ
 ☯︎ ${this.client.config.prefix}ʀᴇᴠᴏᴋᴇ
 ☯︎ ${this.client.config.prefix}ᴘᴘᴄᴏᴜᴘʟᴇ
-────────────────
--ᴇᴅᴜᴄᴀᴛɪᴠᴇ ɪɴᴅɪᴄᴀᴛᴏʀ🎗️
-────────────────
+
+━━━❰ 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝘃𝗲 ❱━━━
+
 ꕥ ${this.client.config.prefix}ᴄᴀʟᴄᴜʟᴀᴛᴏʀ
 ꕥ ${this.client.config.prefix}ᴄᴏᴠɪᴅ
 ꕥ ${this.client.config.prefix}ᴅᴇꜰɪɴᴇ
@@ -134,9 +136,9 @@ export default class Command extends BaseCommand {
 ꕥ ${this.client.config.prefix}ɢɪᴛʜᴜʙ
 ꕥ ${this.client.config.prefix}ᴜʀʙᴀɴᴅɪᴄᴛɪᴏɴᴀʀʏ
 ꕥ ${this.client.config.prefix}ᴡᴇᴀᴛʜᴇʀ
-────────────────
- -ɴsғᴡ🎗️
-────────────────
+
+━━━❰ 𝗡𝘀𝗳𝘄 ❱━━━
+
 🍒 ${this.client.config.prefix}ᴀɴᴀʟ
 🍒 ${this.client.config.prefix}ʙʟᴏᴡᴊᴏʙ
 🍒 ${this.client.config.prefix}ɴꜱꜰᴡᴅᴏᴜᴊɪɴ
@@ -152,9 +154,10 @@ export default class Command extends BaseCommand {
 🍒 ${this.client.config.prefix}ɴꜱꜰᴡ-ɴᴇᴋᴏ
 🍒 ${this.client.config.prefix}ᴘᴜꜱꜱʏ
 🍒 ${this.client.config.prefix}ᴛʀᴀᴘ
-────────────────
-  Nezuko
-────────────────
+╭────────────────
+│ ℕ𝕖𝕫𝕦𝕜𝕠-𝔹𝕠𝕥𝕥𝕠
+│ © 𝐒𝐲𝐧𝐭𝐡𝐞𝐬𝐢𝐳𝐞𝐝 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲
+╰────────────────
 ` }
         )
     }
