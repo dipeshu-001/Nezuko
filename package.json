@@ -1,5 +1,5 @@
 {
-    "name": "Nezuko-Botto",
+    "name": "Nezuko",
     "version": "3.0.0",
     "description": "A WhatsApp Bot With Rich Anime Features.",
     "main": "dist/void.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ToshiroHitsugaya223/Nezuko-Botto.git"
+        "url": "git+https://github.com/Toshiro223/Nezuko.git"
     },
     "keywords": [
         "bot",
@@ -20,12 +20,12 @@
         "whatsapp",
         "chitoge"
     ],
-    "author": "Toshiro Hitsugaya",
+    "author": " Synthesized infinity & Toshiro ",
     "license": "AGPL-3.0",
     "bugs": {
         "url": "https://github.com/ShineiIchijo/Chitoge/issues"
     },
-    "homepage": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto#readme",
+    "homepage": "https://github.com/Toshiro223/Nezuko#readme",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
