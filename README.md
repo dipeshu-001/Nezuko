@@ -32,7 +32,7 @@ Button : If you are deploying from a fork
 
 ## 💻 Deploy/Hosting Guide
 
--   Section Moved to➡️
+-   Section Moved to⬇️
     [Nezuko-Guides](https://github.com/Toshiro223/Nezuko-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
