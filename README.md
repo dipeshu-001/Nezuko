@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wWPjVdB/9a7bdb904c553a6b7c1e7fca2f38683a.gif" alt="9a7bdb904c553a6b7c1e7fca2f38683a" border="0" /></a>
-
+<a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/JzRJS85/2258810.jpg" alt="2258810" border="0" /></a>
 
 # **NEZUKO : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
