@@ -24,13 +24,13 @@ export default class Command extends BaseCommand {
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `📝 ɴᴏᴛᴇꜱ
+            caption: `(❤️•ᴗ•❤️)Konnichiwa👋🏻
 
-〽 ᴛʜɪꜱ ɪꜱ ᴀ ɴᴇᴢᴜᴋᴏ-ʙᴏᴛᴛᴏ!
+👋🏻
 
-🔮 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ɴᴇᴢᴜᴋᴏ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ɴᴇᴢᴜᴋᴏ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
+🧧 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ɴᴇᴢᴜᴋᴏ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
-👾 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
+🧣 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
 ────────────────
 -ɢᴇɴᴇʀᴀʟ🎗️
 ────────────────
