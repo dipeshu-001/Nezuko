@@ -69,7 +69,21 @@ export default class Command extends BaseCommand {
 ────────────────
 -ғᴜɴ🎗️
 ────────────────
-!
+❀ ${this.client.config.prefix}ᴄʜᴇꜱꜱ
+❀ ${this.client.config.prefix}Qᴜᴏᴛᴇ
+❀ ${this.client.config.prefix}ʀᴇᴀᴄᴛ
+❀ ${this.client.config.prefix}ᴛʀɪɢɢᴇʀ
+❀ ${this.client.config.prefix}ᴛʀᴜᴛʜ
+❀ ${this.client.config.prefix}ᴄʜᴀᴛ
+❀ ${this.client.config.prefix}ᴅᴀʀᴇ
+❀ ${this.client.config.prefix}ꜰᴀᴄᴛ
+❀ ${this.client.config.prefix}ꜱᴀꜰᴇᴊᴏᴋᴇ
+❀ ${this.client.config.prefix}ꜱʜɪᴘ
+❀ ${this.client.config.prefix}ᴛʀɪᴠɪᴀ
+❀ ${this.client.config.prefix}ᴊᴀɪʟ
+❀ ${this.client.config.prefix}ᴡᴀɴᴛᴇᴅ
+❀ ${this.client.config.prefix}ʀɪᴘ
+❀ ${this.client.config.prefix}ᴛʀᴀsʜ
 ────────────────
 -ᴍᴇᴅɪᴀ🎗️
 ────────────────
