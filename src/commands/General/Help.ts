@@ -48,7 +48,24 @@ export default class Command extends BaseCommand {
 ────────────────
 -ᴡᴇᴇʙs🎗️
 ────────────────
-!
+シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇ
+シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇQᴜᴏᴛᴇ
+シ︎ ${this.client.config.prefix}ᴀɴɪᴍᴇᴄʜᴀʀ
+シ︎ ${this.client.config.prefix}ɢᴇɴꜱʜɪɴᴄʜᴀʀᴀᴄᴛᴇʀ
+シ︎ ${this.client.config.prefix}ʜᴜꜱʙᴀɴᴅᴏ
+シ︎ ${this.client.config.prefix}ʟᴏʟɪ
+シ︎ ${this.client.config.prefix}ᴍᴀɴɢᴀ
+シ︎ ${this.client.config.prefix}ᴘᴏᴋᴇᴍᴏɴ
+シ︎ ${this.client.config.prefix}ʀᴘᴀᴘᴇʀ
+シ︎ ${this.client.config.prefix}ᴠᴛᴜʙᴇʀ
+シ︎ ${this.client.config.prefix}ᴡᴀɪꜰᴜ
+シ︎ ${this.client.config.prefix}ᴀᴍᴇᴍᴇ
+シ︎ ${this.client.config.prefix}ᴄʜᴀʀᴀᴄᴛᴇʀ
+シ︎ ${this.client.config.prefix}ᴄʀᴏꜱꜱᴘʟᴀʏ
+シ︎ ${this.client.config.prefix}ʜᴀɪɢᴜꜱʜᴀ
+シ︎ ${this.client.config.prefix}ʀᴇᴄᴏᴍᴍᴇɴᴅ
+シ︎ ${this.client.config.prefix}ꜱᴀᴜᴄᴇ
+シ︎ ${this.client.config.prefix}ᴡᴀʟʟᴘᴀᴘᴇʀ
 ────────────────
 -ғᴜɴ🎗️
 ────────────────
