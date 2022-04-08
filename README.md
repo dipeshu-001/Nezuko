@@ -46,7 +46,13 @@ Button : If you are deploying from a fork
     requests
 -   Make sure to follow the ESLint Rules while editing the code and run
     `yarn run prettier-format` before opening PRs
-## Give a ⭐ if this project helped you
+## Give a ⭐ if this project helped you.
+
+## 🤝 Contributors
+
+<a href="https://github.com/Toshiro223/Nezuko/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Toshiro223/Nezuko" />
+</a>
 
 ## 🚀Some WhatsApp bots are recommended🚀
 <details>
