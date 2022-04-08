@@ -9,10 +9,10 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "Nezuko",
+			command: "bot",
 			description: "Displays the info",
 			category: "general",
-			usage: `${client.config.prefix}nezuko`,
+			usage: `${client.config.prefix}bot`,
 			baseXp: 2000,
 		});
 	}
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `❤️ *NEZUKO* ❤️\n\n🍀 *Description: A WhatsApp Bot With Rich NSFW features based on chitoge.*\n\n🌐 *OFFICIAL BOT URL: https://github.com/ShineiIchijo/Chitoge* \n\n 📒 *Chitoge-Guide: https://github.com/ShineiIchijo/Chitoge-Guides* \n\n 🚀 *NEZUKO BOT URL:https://github.com/Toshiro223/Nezuko* \n\n 📒 *Nezuko-Guide: https://github.com/Toshiro223/Nezuko-Guides \n`,
+				caption: `❤️ *NEZUKO* ❤️\n\n🏮 *Description: lol.*\n\n 🌟*CHITOGE BOT: https://github.com/ShineiIchijo/Chitoge*\n\n 🤍*SIESTA-BOT: https://github.com/Toshiro223/Siesta-Botto*\n\n 〽️*MARIN-BOT:https://github.com/Chey-san/Marin-Kitagawa-Bot*\n\n 🧣*YOUTSUBA-BOT:https://github.com/Whatup364/Yotsuba-Bot*\n\n`,
 			}
 		);
 	};
