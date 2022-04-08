@@ -35,7 +35,7 @@ Button : If you are deploying from a fork
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [RIN-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+    [Nezuko-Guides](https://github.com/Toshiro223/Nezuko-Guide/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
