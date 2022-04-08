@@ -137,7 +137,21 @@ export default class Command extends BaseCommand {
 ────────────────
  -ɴsғᴡ🎗️
 ────────────────
-!
+🍒 ${this.client.config.prefix}ᴀɴᴀʟ
+🍒 ${this.client.config.prefix}ʙʟᴏᴡᴊᴏʙ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡᴅᴏᴜᴊɪɴ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡʟᴏʟɪ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡᴘᴀᴘᴇʀ
+🍒 ${this.client.config.prefix}ᴛʜɪɢʜꜱ
+🍒 ${this.client.config.prefix}ʜᴇɴᴛᴀɪ
+🍒 ${this.client.config.prefix}ᴍᴀɪᴅ
+🍒 ${this.client.config.prefix}ᴍᴀꜱᴛᴜʀʙᴀᴛɪᴏɴ
+🍒 ${this.client.config.prefix}ɴᴄᴏᴅᴇ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡ-ᴡᴀɪꜰᴜ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡᴊᴏᴋᴇ
+🍒 ${this.client.config.prefix}ɴꜱꜰᴡ-ɴᴇᴋᴏ
+🍒 ${this.client.config.prefix}ᴘᴜꜱꜱʏ
+🍒 ${this.client.config.prefix}ᴛʀᴀᴘ
 ────────────────
   Nezuko
 ────────────────
