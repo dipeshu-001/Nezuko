@@ -1,5 +1,5 @@
 {
-    "name": "Nezuko-Botto",
+    "name": "Nezuko",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -11,8 +11,8 @@
         "whatsapp-sticker-bot",
         "whatsapp-botto"
     ],
-    "website": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto#readme",
-    "repository": "https://github.com/ToshiroHitsugaya223/Nezuko-Botto.git",
+    "website": "https://github.com/Toshiro223/Nezuko#readme",
+    "repository": "https://github.com/Toshiro223/Nezuko.git",
     "logo": "https://www.linkpicture.com/q/images_595.jpeg",
     "success_url": "/",
     "env": {
