@@ -29,9 +29,9 @@ export default class Command extends BaseCommand {
 │ ᴜꜱᴇʀ: *${M.sender.username}*
 │ ɴᴀᴍᴇ: *𝗡𝗲𝘇𝘂𝗸𝗼 (◍•ᴗ•◍)*
 │ ᴘʀᴇꜰɪx: *${this.client.config.prefix}*
-│ ᴏᴡɴᴇʀ: *<${this.client.config.prefix}mod>*
+│ ʙᴏᴛ ʟɪɴᴋ: *https://github.com/Toshiro223/Nezuko*
 ╰────────────┈
-🧣 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ɴᴇᴢᴜᴋᴏ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
+🧣 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
 ━━━❰ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❱━━━
 
