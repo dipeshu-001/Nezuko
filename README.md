@@ -58,4 +58,4 @@ Button : If you are deploying from a fork
 
 ![Cara][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamherok&repo=Cara_public&theme=buefy)](https://github.com/iamherok/Cara_public)
 
-![Yotsuba][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Whatup364&repo=Yotsuba&theme=buefy)](https://github.com/Whatup364/Yotsuba-Bot)
+![Yotsuba][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Whatup364&repo=Yotsuba-Bot&theme=buefy)](https://github.com/Whatup364/Yotsuba-Bot)
