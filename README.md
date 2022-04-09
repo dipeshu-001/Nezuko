@@ -49,8 +49,6 @@ Button : If you are deploying from a fork
 ## Give a ⭐ if this project helped you.
 
 ## 🚀Some WhatsApp bots are recommended🚀
-<details>
-<summary>Click Here</summary>
 
 ![Kaoi][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajjwalDatir&repo=Kaoi&theme=buefy)](https://github.com/PrajjwalDatir/kaoi)
 
