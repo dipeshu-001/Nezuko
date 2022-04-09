@@ -26,9 +26,9 @@ export default class Command extends BaseCommand {
             caption: `(❤️ω❤️)Konnichiwa👋 I'm ℕ𝕖𝕫𝕦𝕜𝕠^ℂ𝕙𝕒𝕟!
 
 ╭────────────┈
-│ ᴜꜱᴇʀ: *${M.sender.username}*
-│ ɴᴀᴍᴇ: *𝗡𝗲𝘇𝘂𝗸𝗼 (◍•ᴗ•◍)*
-│ ᴘʀᴇꜰɪx: *${this.client.config.prefix}*
+│🚀 ᴜꜱᴇʀ: *${M.sender.username}*
+│🎗️ ɴᴀᴍᴇ: *𝗡𝗲𝘇𝘂𝗸𝗼 (◍•ᴗ•◍)*
+│🏮 ᴘʀᴇꜰɪx: *${this.client.config.prefix}*
 ╰────────────┈
 🧣 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
