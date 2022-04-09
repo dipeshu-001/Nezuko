@@ -57,3 +57,5 @@ Button : If you are deploying from a fork
 ![Chitoge][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShineiIchijo&repo=Chitoge&theme=buefy)](https://github.com/ShinNouzen/Chitoge)
 
 ![Cara][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamherok&repo=Cara_public&theme=buefy)](https://github.com/iamherok/Cara_public)
+
+![Yotsuba][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Whatup364&repo=Yotsuba&theme=buefy)](https://github.com/Whatup364/Yotsuba-Bot)
