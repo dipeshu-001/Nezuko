@@ -3,6 +3,7 @@
 
 # **NEZUKO : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
+<a href="https://www.codefactor.io/repository/github/toshiro223/nezuko"><img src="https://www.codefactor.io/repository/github/toshiro223/nezuko/badge" alt="CodeFactor" /></a>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919609900020) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
