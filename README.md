@@ -38,17 +38,6 @@ Button : If you are deploying from a fork
 
 ## 🍥 Features of the Repo
 
--   To view all features, click
-    here➡️[Kaoi_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
-
-## 💪 Contribution
-
--   Feel free to open issues regarding any problems or if you have any feature
-    requests
--   Make sure to follow the ESLint Rules while editing the code and run
-    `yarn run prettier-format` before opening PRs
-## Give a ⭐ if this project helped you.
-
 ## Kaoi_featuresList.md
 
 | Anime      | usage                                         |
@@ -139,6 +128,14 @@ Button : If you are deploying from a fork
 | Purge      | Purges the group chat, can only work if the bot is an admin and the one commanding is the owner of the Group chat                        |
 | Revoke     | Revokes the group invite link, can only work if the bot is an admin and the one commanding this too                                      |
 
+
+## 💪 Contribution
+
+-   Feel free to open issues regarding any problems or if you have any feature
+    requests
+-   Make sure to follow the ESLint Rules while editing the code and run
+    `yarn run prettier-format` before opening PRs
+## Give a ⭐ if this project helped you.
 
 ## 🚀Some WhatsApp bots are recommended🚀
 
