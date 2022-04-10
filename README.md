@@ -49,6 +49,8 @@ Button : If you are deploying from a fork
     `yarn run prettier-format` before opening PRs
 ## Give a ⭐ if this project helped you.
 
+## Kaoi_featuresList.md
+
 | Anime      | usage                                         |
 | ---------- | --------------------------------------------- |
 | AnimeQuote | Gives you an Anime Quote                      |
